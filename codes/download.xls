@@ -1,0 +1,37 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>Analysis Results</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table>
+    <table id="testTable">
+        
+     
+       
+        <tbody>
+<tr>
+<td>ISBN</td>
+<td>R</td>
+        </tr><tr>
+            <td>0971880107</td>
+            
+            <td id="htqf1">3</td>
+        </tr>
+        <tr>
+            <td>0316666343</td> 
+            
+            <td id="htqf2">2</td>
+        </tr>
+        <tr>
+            <td>0385504209</td>
+            
+            <td id="htqf3">8</td>
+        </tr>
+        <tr>
+            <td>0060928336</td>
+            
+            <td id="htqf4">7</td>
+        </tr>
+<tr>
+            <td>0312195516</td>
+            
+            <td id="htqf5">9</td>
+        </tr>
+        </tbody>
+    </table>
+</table></body></html>
